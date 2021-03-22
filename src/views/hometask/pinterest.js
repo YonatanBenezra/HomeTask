@@ -12,7 +12,7 @@ import {
   CEmbedItem
 } from '@coreui/react'
 
-const Jumbotrons = () => {
+const Pinterest = () => {
 
   return (
     <>
@@ -80,4 +80,4 @@ const Jumbotrons = () => {
   )
 }
 
-export default Jumbotrons
+export default Pinterest

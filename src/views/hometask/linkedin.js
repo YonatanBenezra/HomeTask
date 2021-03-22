@@ -5,14 +5,12 @@ import {
   CCardBody,
   CCardHeader,
   CCol,
-  CContainer,
-  CJumbotron,
   CRow,
   CEmbed,
   CEmbedItem
 } from '@coreui/react'
 
-const Jumbotrons = () => {
+const Linkedin = () => {
 
   return (
     <>
@@ -80,4 +78,4 @@ const Jumbotrons = () => {
   )
 }
 
-export default Jumbotrons
+export default Linkedin
