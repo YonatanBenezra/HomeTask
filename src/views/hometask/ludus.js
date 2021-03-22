@@ -13,7 +13,6 @@ import {
 } from '@coreui/react'
 
 const Ludus = () => {
-
   return (
     <>
       <CRow>
